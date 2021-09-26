@@ -11,4 +11,7 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="hit_text">あたり</string>
     <string name="lose_text">はずれ</string>
+    <string name="high_text">High</string>
+    <string name="next_text">次へ</string>
+    <string name="low_text">Low</string>
 </resources>
